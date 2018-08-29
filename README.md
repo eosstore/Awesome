@@ -2,10 +2,10 @@
 Awesome technical resources 
 
 ### C++
-  - [aaa](http://a.b.com)
-  
-  
+  - [en.cppreference.com](https://en.cppreference.com)
+  - [zh.cppreference.com](https://zh.cppreference.com)
+  - [isocpp.org](https://isocpp.org)
   
 ### CMake
-  - [Book CGold](https://cgold.readthedocs.io/)
+  - [CGold](https://cgold.readthedocs.io/) The best cmake book.
   - [CMake Reference](https://cmake.org/cmake/help/latest/)
