@@ -1,6 +1,10 @@
 # Awesome
 Awesome technical resources 
 
+### EOS
+  - [XChainLab](https://github.com/XChainLab) 非常好的EOS资料
+
+
 ### C++
   - [en.cppreference.com](https://en.cppreference.com)
   - [zh.cppreference.com](https://zh.cppreference.com)
