@@ -1,6 +1,11 @@
 # Awesome
 Awesome technical resources 
 
+### Contract and Security
+
+  - [fairdicegame](https://github.com/Dappub/fairdicegame) 
+
+
 ### EOS
   - [XChainLab](https://github.com/XChainLab) 非常好的EOS资料
 
